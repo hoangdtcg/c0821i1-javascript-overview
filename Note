@@ -1,0 +1,29 @@
+- What?
+JS là gì:
+    - Ngôn ngữ kịch bản được sử dụng nhiều ở phía client (server)
+JS dùng để làm gì:
+    - Tùy chỉnh giao diện trang web - style
+    - Xử lý logic
+    - Tăng tương tác với trang web - event
+    - Thay đổi nội dung trên trang web - content
+
+DOM: Document Object Model - Đối tượng hóa các phần tử của tranng web để dễ dàng
+thao tác
+
+p, h1, ...: element (phần tử).
+
+<h1></h1> : Thẻ đóng => inner: bên trong
+<img/ >. <input/> : Thẻ mở
+
+Nhúng 4 cách:
+- Nhúng CDN: thư viện JS ở ngoài
+- Nhúng trực tiếp vào thẻ HTML: inline script
+- Nhúng vào HTML thông qua thẻ <script></script>: internal script
+- Tạo file JS ở bên ngoài rồi nhúng vào HTML bằng <script src=<link>>: external script
+
+- Xác định bài toán:
+    - Input - đầu vào
+    - Output - đầu ra
+    - Logic - Các bước tính toán
+
+NaN : Not a Number
